@@ -1,10 +1,10 @@
 <!-- ========== Header Banner ========== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=220&section=header&text=hxxxi-malog&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer&descSize=20&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=220&section=header&text=malog&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer&descSize=20&descAlignY=55&descAlign=50" />
 
 <!-- Typing SVG -->
 <h3 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1F6FEB&random=false&width=500&lines=Stay+hungry+and+stay+foolish;Always+learning,+always+growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1F6FEB&random=false&width=600&size=24&center=true&lines=Hi,+I'm+malog;Always+learning,+always+growing" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -13,11 +13,11 @@
 
 ## About Me
 
-- 👋 Hi, I'm **@hxxxi-malog**, a Java backend developer
-- 📖 Currently learning **Agent 架构**, **Harness Engineering**, **上下文工程** and **RAG**
-- 🧑‍💻 Tech stack: `Java` `Spring Boot` `Spring Cloud` `MyBatis` `MySQL` `Redis` `Kafka` `RabbitMQ` `Docker`
-- 🤖 AI: `LangChain` `Spring AI` `RAG` `MCP` `Skills` `Claude Code` `Cursor`
-- 💬 Ask me about backend architecture, distributed systems, and AI application development
+- 👋 Hi, I'm **@malog**，a backend developer
+- 🏗️ Architecture: DDD · Multi-Agent Orchestration (DAG + 状态机) · Prompt Caching · 混合检索 (向量 + BM25)
+- 🧑‍💻 Tech stack: `Java` `Spring Boot` `Spring Cloud` `MyBatis` `MySQL` `Redis` `Kafka` `RabbitMQ` `Docker` ...and more
+- 🤖 AI Engineering: `RAG` `MCP` `Skills` `LangChain` `Spring AI` `Harness Engineering` `Agent 系统设计`
+- 📖 Currently exploring **Agent 架构**, **上下文工程** and **多 Agent 协同**
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maloghx@outlook.com)
 
 <!-- ========== GitHub Stats ========== -->
