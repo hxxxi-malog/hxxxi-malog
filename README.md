@@ -4,24 +4,21 @@
 <!-- Typing SVG -->
 <h3 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&pause=1000&color=1F6FEB&random=false&width=500&lines=Stay+hungry+and+stay+foolish;Always+learning%2C+always+growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1F6FEB&random=false&width=500&lines=Stay+hungry+and+stay+foolish;Always+learning,+always+growing" alt="Typing SVG" />
   </a>
 </h3>
 
-<!-- ========== About Me ========== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hxxxi-malog&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile Views" />
-</p>
 
 <img src="https://raw.githubusercontent.com/hxxxi-malog/hxxxi-malog/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 ## About Me
 
-- 👋 Hi, I'm **@hxxxi-malog**, a backend developer
-- 📖 Currently learning **Go**, **distributed systems**, and **cloud native**
-- 🧑‍💻 Tech stack: `Go` `Python` `MySQL` `Redis` `Kafka` `Docker` `Kubernetes`
-- 💬 Ask me about backend architecture, API design, and system optimization
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+- 👋 Hi, I'm **@hxxxi-malog**, a Java backend developer
+- 📖 Currently learning **Agent 架构**, **Harness Engineering**, **上下文工程** and **RAG**
+- 🧑‍💻 Tech stack: `Java` `Spring Boot` `Spring Cloud` `MyBatis` `MySQL` `Redis` `Kafka` `RabbitMQ` `Docker`
+- 🤖 AI: `LangChain` `Spring AI` `RAG` `MCP` `Skills` `Claude Code` `Cursor`
+- 💬 Ask me about backend architecture, distributed systems, and AI application development
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maloghx@outlook.com)
 
 <!-- ========== GitHub Stats ========== -->
 <table align="center">
@@ -37,7 +34,7 @@
 
 <!-- ========== Streak Stats ========== -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxxxi-malog&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hxxxi-malog&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <!-- ========== Activity Graph ========== -->
