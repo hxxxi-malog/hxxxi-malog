@@ -13,7 +13,6 @@
 
 ## 😄 About Me
 
----
 > Student developer, building ideas into software and learning in public.
 
 - 🎓 I'm **@Malog**, a student who is passionate about building things with code.
@@ -24,7 +23,6 @@
 
 ## ⚙️ Engineering Toolkit
 
----
 <p align="center"><b>BUILD</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
