@@ -97,26 +97,9 @@
   <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge" alt="Milvus" />
 </p>
 
-<!-- ========== GitHub Stats ========== -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hxxxi-malog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxxxi-malog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 <!-- ========== Streak Stats ========== -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hxxxi-malog&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
-<!-- ========== Activity Graph ========== -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hxxxi-malog&bg_color=0d1117&color=1f6feb&line=388bfd&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Activity Graph" />
 </p>
 
 <!-- ========== 3D Contribution Graph ========== -->
@@ -127,9 +110,7 @@
 
 <!-- ========== Trophies ========== -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hxxxi-malog&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=hxxxi-malog&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <!-- ========== Footer Wave ========== -->
