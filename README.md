@@ -8,9 +8,6 @@
   </a>
 </h3>
 
-
-<img src="https://raw.githubusercontent.com/hxxxi-malog/hxxxi-malog/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 ## 😄 About Me
 
 > Student developer, building ideas into software and learning in public.
@@ -106,12 +103,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/hxxxi-malog/hxxxi-malog/output/profile-3d-contrib/profile-green-animate.svg" />
 
 <!-- ========== Snake Animation ========== -->
-<img width="100%" src="https://raw.githubusercontent.com/hxxxi-malog/hxxxi-malog/output/github-contribution-grid-snake.svg" />
-
-<!-- ========== Trophies ========== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hxxxi-malog&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
+<img src="https://raw.githubusercontent.com/hxxxi-malog/hxxxi-malog/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <!-- ========== Footer Wave ========== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=120&section=footer" />
