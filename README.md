@@ -21,6 +21,25 @@
 - 🌱 I enjoy following new technologies, testing them in practice, and turning what I learn into the next project.
 - 📫 Reach me at [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maloghx@outlook.com)
 
+## 🧑‍💻 Open Source Experience
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/wemake-services/django-modern-rest">django-modern-rest</a></h3>
+      <p><img src="https://img.shields.io/badge/Contributor-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Contributor" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /></p>
+      <p>A modern REST framework for Django with type safety and async support.</p>
+      <p><a href="https://github.com/wemake-services/django-modern-rest/stargazers"><img src="https://img.shields.io/github/stars/wemake-services/django-modern-rest?style=flat-square&label=Stars&color=1F6FEB" alt="django-modern-rest GitHub stars" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/larry-zy/cognida">Cognida</a></h3>
+      <p><img src="https://img.shields.io/badge/Contributor-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Contributor" /> <img src="https://img.shields.io/badge/AI%20Agents-8250DF?style=flat-square" alt="AI Agents" /></p>
+      <p>An enterprise data and knowledge agent platform with governance, auditability, and measurable outcomes.</p>
+      <p><a href="https://github.com/larry-zy/cognida/stargazers"><img src="https://img.shields.io/github/stars/larry-zy/cognida?style=flat-square&label=Stars&color=1F6FEB" alt="Cognida GitHub stars" /></a></p>
+    </td>
+  </tr>
+</table>
+
 ## ⚙️ Engineering Toolkit
 
 <p align="center"><b>BUILD</b></p>
