@@ -8,7 +8,7 @@
   </a>
 </h3>
 
-## 😄 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" width="32" height="32" align="absmiddle" alt="Animated smiling face" /> About Me
 
 > Student developer, building ideas into software and learning in public.
 
@@ -18,26 +18,16 @@
 - 🌱 I enjoy following new technologies, testing them in practice, and turning what I learn into the next project.
 - 📫 Reach me at [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maloghx@outlook.com)
 
-## 🧑‍💻 Open Source Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32" height="32" align="absmiddle" alt="Animated technologist" /> Open Source Experience
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wemake-services/django-modern-rest">django-modern-rest</a></h3>
-      <p><img src="https://img.shields.io/badge/Contributor-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Contributor" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /></p>
-      <p>A modern REST framework for Django with type safety and async support.</p>
-      <p><a href="https://github.com/wemake-services/django-modern-rest/stargazers"><img src="https://img.shields.io/github/stars/wemake-services/django-modern-rest?style=flat-square&label=Stars&color=1F6FEB" alt="django-modern-rest GitHub stars" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/larry-zy/cognida">Cognida</a></h3>
-      <p><img src="https://img.shields.io/badge/Contributor-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Contributor" /> <img src="https://img.shields.io/badge/AI%20Agents-8250DF?style=flat-square" alt="AI Agents" /></p>
-      <p>An enterprise data and knowledge agent platform with governance, auditability, and measurable outcomes.</p>
-      <p><a href="https://github.com/larry-zy/cognida/stargazers"><img src="https://img.shields.io/github/stars/larry-zy/cognida?style=flat-square&label=Stars&color=1F6FEB" alt="Cognida GitHub stars" /></a></p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/apache/camel-k"><img src="https://img.shields.io/badge/Apache%20Camel%20K-Contributor-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=555555" alt="Apache Camel K Contributor" align="middle" /></a>
+  <a href="https://github.com/HKUDS/LightRAG"><img src="https://img.shields.io/badge/LightRAG-Contributor-009E73?style=for-the-badge&labelColor=555555" alt="LightRAG Contributor" align="middle" /></a>
+  <a href="https://github.com/wemake-services/django-modern-rest"><img src="https://img.shields.io/badge/django--modern--rest-Contributor-2563EB?style=for-the-badge&logo=django&logoColor=white&labelColor=555555" alt="django-modern-rest Contributor" align="middle" /></a>
+  <a href="https://github.com/larry-zy/cognida"><img src="https://img.shields.io/badge/Cognida-Contributor-7952D9?style=for-the-badge&labelColor=555555" alt="Cognida Contributor" align="middle" /></a>
+</p>
 
-## ⚙️ Engineering Toolkit
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="32" height="32" align="absmiddle" alt="Animated robot" /> Engineering Toolkit
 
 <p align="center"><b>BUILD</b></p>
 <p align="center">
@@ -93,6 +83,8 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge" alt="Milvus" />
 </p>
+
+---
 
 <!-- ========== Streak Stats ========== -->
 <p align="center">
