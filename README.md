@@ -39,7 +39,6 @@
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/springcloud.svg" width="48" height="48" alt="Spring Cloud" title="Spring Cloud" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/dubbo-dark.svg" width="48" height="48" alt="Apache Dubbo" title="Apache Dubbo" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/grpc-dark.svg" width="48" height="48" alt="gRPC" title="gRPC" />
-  <img src="assets/toolkit/mybatis.svg" width="48" height="48" alt="MyBatis" title="MyBatis" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/mysql-dark.svg" width="48" height="48" alt="MySQL" title="MySQL" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/postgresql-dark.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/redis-dark.svg" width="48" height="48" alt="Redis" title="Redis" />
@@ -57,11 +56,8 @@
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/chatgpt.svg" width="48" height="48" alt="OpenAI" title="OpenAI" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/claude-dark.svg" width="48" height="48" alt="Claude" title="Claude" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/langchain-dark.svg" width="48" height="48" alt="LangChain" title="LangChain" />
-  <img src="assets/toolkit/langgraph.svg" width="48" height="48" alt="LangGraph" title="LangGraph" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/mcp-dark.svg" width="48" height="48" alt="Model Context Protocol" title="Model Context Protocol" />
   <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/springai.svg" width="48" height="48" alt="Spring AI" title="Spring AI" />
-  <img src="assets/toolkit/rag.svg" width="48" height="48" alt="Retrieval-Augmented Generation" title="Retrieval-Augmented Generation" />
-  <img src="assets/toolkit/lightrag.svg" width="48" height="48" alt="LightRAG" title="LightRAG" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/ollama-dark.svg" width="48" height="48" alt="Ollama" title="Ollama" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/huggingface-dark.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" />
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/milvus-dark.svg" width="48" height="48" alt="Milvus" title="Milvus" />
