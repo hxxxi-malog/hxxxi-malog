@@ -29,59 +29,42 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="32" height="32" align="absmiddle" alt="Animated robot" /> Engineering Toolkit
 
-<p align="center"><b>BUILD</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
-</p>
-
-<p align="center"><b>SERVICE SYSTEMS</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
-  <img src="https://img.shields.io/badge/Apache%20Dubbo-2D64BC?style=for-the-badge" alt="Apache Dubbo" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white" alt="MyBatis" />
-</p>
-
-<p align="center"><b>DATA & EVENT FLOW</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Apache%20RocketMQ-D22B21?style=for-the-badge" alt="Apache RocketMQ" />
-  <img src="https://img.shields.io/badge/Nacos-2F7BFF?style=for-the-badge" alt="Nacos" />
-</p>
-
-<p align="center"><b>CLOUD NATIVE DELIVERY</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-<p align="center"><b>AI & AGENT ENGINEERING</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
-  <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge" alt="Retrieval-Augmented Generation" />
-  <img src="https://img.shields.io/badge/LightRAG-00A67E?style=for-the-badge" alt="LightRAG" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge" alt="Milvus" />
+<p>
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/java-dark.svg" width="48" height="48" alt="Java" title="Java" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/golang.svg" width="48" height="48" alt="Go" title="Go" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/python-dark.svg" width="48" height="48" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/sql.svg" width="48" height="48" alt="SQL" title="SQL" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/bash-dark.svg" width="48" height="48" alt="Shell" title="Shell" />
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/springboot.svg" width="48" height="48" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/springcloud.svg" width="48" height="48" alt="Spring Cloud" title="Spring Cloud" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/dubbo-dark.svg" width="48" height="48" alt="Apache Dubbo" title="Apache Dubbo" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/grpc-dark.svg" width="48" height="48" alt="gRPC" title="gRPC" />
+  <img src="assets/toolkit/mybatis.svg" width="48" height="48" alt="MyBatis" title="MyBatis" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/mysql-dark.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/postgresql-dark.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/redis-dark.svg" width="48" height="48" alt="Redis" title="Redis" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/mongodb.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/elasticsearch-dark.svg" width="48" height="48" alt="Elasticsearch" title="Elasticsearch" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/kafka.svg" width="48" height="48" alt="Apache Kafka" title="Apache Kafka" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/rabbitmq-dark.svg" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/rocketmq-dark.svg" width="48" height="48" alt="Apache RocketMQ" title="Apache RocketMQ" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/nacos-dark.svg" width="48" height="48" alt="Nacos" title="Nacos" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/docker.svg" width="48" height="48" alt="Docker" title="Docker" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/kubernetes.svg" width="48" height="48" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/prometheus.svg" width="48" height="48" alt="Prometheus" title="Prometheus" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/grafana-dark.svg" width="48" height="48" alt="Grafana" title="Grafana" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/linux-dark.svg" width="48" height="48" alt="Linux" title="Linux" />
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/chatgpt.svg" width="48" height="48" alt="OpenAI" title="OpenAI" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/claude-dark.svg" width="48" height="48" alt="Claude" title="Claude" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/langchain-dark.svg" width="48" height="48" alt="LangChain" title="LangChain" />
+  <img src="assets/toolkit/langgraph.svg" width="48" height="48" alt="LangGraph" title="LangGraph" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/mcp-dark.svg" width="48" height="48" alt="Model Context Protocol" title="Model Context Protocol" />
+  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/springai.svg" width="48" height="48" alt="Spring AI" title="Spring AI" />
+  <img src="assets/toolkit/rag.svg" width="48" height="48" alt="Retrieval-Augmented Generation" title="Retrieval-Augmented Generation" />
+  <img src="assets/toolkit/lightrag.svg" width="48" height="48" alt="LightRAG" title="LightRAG" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/ollama-dark.svg" width="48" height="48" alt="Ollama" title="Ollama" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/huggingface-dark.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/milvus-dark.svg" width="48" height="48" alt="Milvus" title="Milvus" />
 </p>
 
 ---
