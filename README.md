@@ -74,7 +74,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/hxxxi-malog/hxxxi-malog/output/profile-3d-contrib/profile-green-animate.svg" />
 
 <!-- ========== Snake Animation ========== -->
-<img src="https://raw.githubusercontent.com/hxxxi-malog/hxxxi-malog/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/hxxxi-malog/hxxxi-malog/output-snake/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <!-- ========== Footer Wave ========== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=120&section=footer" />
